@@ -25,7 +25,7 @@
     "@tailwindcss/typography": "^0.5.12",
     "classnames": "^2.3.1",
     "gray-matter": "^4.0.3",
-    "next": "^15.0.0",
+    "next": "^16.0.0",
     "next-mdx-remote": "^5.0.0",
     "next-remote-watch": "2.0.0",
     "prismjs": "^1.29.0",
@@ -36,7 +36,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.19",
     "eslint": "^9.0.0",
-    "eslint-config-next": "^15.4.6",
+    "eslint-config-next": "^16.0.0",
     "eslint-config-prettier": "^10.0.0",
     "postcss": "^8.4.39",
     "tailwindcss": "^4.0.0"
